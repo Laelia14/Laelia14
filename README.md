@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Laelia14
-- 🌱 I’m currently learning C# and Java-(Bukkit-API)
+- 🌱 I’m currently learning C# and Swift
 - 📫 You can reach me in Discord (afkharin#9868)
